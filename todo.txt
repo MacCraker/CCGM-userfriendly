@@ -1,5 +1,6 @@
 [ ] written docs for configuration
 [ ] written instructions for installation
+[ ] improve readme (enough)
 [ ] offline installer
 [ ] online installer
 [ ] automatically download and install necessary deps (instead of making the user do it themselves)
