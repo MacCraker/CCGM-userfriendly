@@ -1,0 +1,8 @@
+[ ] written docs for configuration
+[ ] written instructions for installation
+[ ] offline installer
+[ ] online installer
+[ ] automatically download and install necessary deps (instead of making the user do it themselves)
+[ ] combine batch files used to start certain scripts when starting ccgm
+[ ] (optionally) create shortcuts for desktop and start menu
+[ ] make a gui installer, probably involving vbs, because users and terminals (generally) do not mix super well
